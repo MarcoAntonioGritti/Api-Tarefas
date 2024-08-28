@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|c:\\users\\luis gustavo\\source\\repos\\api-tarefas\\api-tarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|solutionrelative:api-tarefas\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|c:\\users\\luis gustavo\\source\\repos\\api-tarefas\\api-tarefas\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|solutionrelative:api-tarefas\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|c:\\users\\luis gustavo\\source\\repos\\api-tarefas\\api-tarefas\\migrations\\20240827203735_criandotabelatarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE342C8-BBA1-41E0-AF1F-55491D53CAC6}|Api-Tarefas\\Api-Tarefas.csproj|solutionrelative:api-tarefas\\migrations\\20240827203735_criandotabelatarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Api-Tarefas\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Api-Tarefas\\Controllers\\TarefaController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwvzYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:27:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240827203735_CriandoTabelaTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Migrations\\20240827203735_CriandoTabelaTarefa.cs",
+              "RelativeDocumentMoniker": "Api-Tarefas\\Migrations\\20240827203735_CriandoTabelaTarefa.cs",
+              "ToolTip": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Migrations\\20240827203735_CriandoTabelaTarefa.cs",
+              "RelativeToolTip": "Api-Tarefas\\Migrations\\20240827203735_CriandoTabelaTarefa.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:37:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Entities\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Api-Tarefas\\Entities\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\Luis Gustavo\\source\\repos\\Api-Tarefas\\Api-Tarefas\\Entities\\Tarefa.cs",
+              "RelativeToolTip": "Api-Tarefas\\Entities\\Tarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T20:15:47.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
